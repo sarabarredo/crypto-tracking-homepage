@@ -1,0 +1,29 @@
+.sign .container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: center;
+    align-items: center;
+    padding: 3rem 1rem;
+}
+
+.sign .left {
+    text-align: center;
+}
+
+.sign .left img {
+    transition: 0.5s ease-in-out;
+}
+
+.sign img:hover {
+    transform: scale(1.1);
+}
+
+.sign .right p {
+    margin: 2rem 0;
+}
+
+@media screen and (max-width: 940px) {
+    .sign .container {
+        grid-template-columns: 1fr;
+    }
+}
