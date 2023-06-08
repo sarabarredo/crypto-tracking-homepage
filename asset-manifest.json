@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/crypto-tracking-homepage/static/css/main.e2d871dc.css",
+    "main.js": "/crypto-tracking-homepage/static/js/main.89fe2325.js",
+    "static/media/phone-img.png": "/crypto-tracking-homepage/static/media/phone-img.fa7b9d8aaafc6a51f3d5.png",
+    "index.html": "/crypto-tracking-homepage/index.html",
+    "main.e2d871dc.css.map": "/crypto-tracking-homepage/static/css/main.e2d871dc.css.map",
+    "main.89fe2325.js.map": "/crypto-tracking-homepage/static/js/main.89fe2325.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2d871dc.css",
+    "static/js/main.89fe2325.js"
+  ]
+}
